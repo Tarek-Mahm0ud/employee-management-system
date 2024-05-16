@@ -12,7 +12,7 @@
 ## Installation 🛠️ <a name="installation"></a>
 
 1. **Clone the repository:**  
-git clone https://github.com/your-username/employee-management-system.git
+git clone https://github.com/Tarek-Mahm0ud/employee-management-system.git
 
 3. **Compile the code:**  
 g++ -o main main.cpp
