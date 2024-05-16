@@ -35,14 +35,6 @@ public:
         size++;
     }
     void add_employee(employee e1){
-        /*if(last==NULL){
-            intnode* t = new intnode(e1, nullptr);
-            sentinel = new intnode(employee(), t);
-            last = t;
-        }else{
-            last->next= new intnode(e1, nullptr);
-            last =  last->next;
-        }*/
         if (last == nullptr) {
             last = new intnode(e1, nullptr);
             sentinel->next = last;
