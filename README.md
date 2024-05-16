@@ -51,4 +51,4 @@ g++ -o main main.cpp
 
 ## License 📄 <a name="license"></a>
 
-📝 This project is licensed under the [MIT License](LICENSE).
+📝 This project is licensed under the [GNU General Public License (GPL) ](LICENSE).
