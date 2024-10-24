@@ -1,6 +1,6 @@
 # Employee Management System
 
-👔 This is a simple Employee Management System implemented in C++ using a linked list data structure. It allows users to perform various operations such as adding, updating, deleting, and searching for employee details.
+This is a simple Employee Management System implemented in C++ using a linked list data structure. It allows users to perform various operations such as adding, updating, deleting, and searching for employee details.
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -9,7 +9,7 @@
 4. [Contributing](#contributing)
 5. [License](#license)
 
-## Installation 🛠️ <a name="installation"></a>
+## Installation  <a name="installation"></a>
 
 1. **Clone the repository:**  
 git clone https://github.com/Tarek-Mahm0ud/employee-management-system.git
@@ -18,7 +18,7 @@ git clone https://github.com/Tarek-Mahm0ud/employee-management-system.git
 g++ -o main main.cpp
 
 
-## Usage 🚀 <a name="usage"></a>
+## Usage  <a name="usage"></a>
 
 1. **Run the program:**  
 ./main
@@ -28,7 +28,7 @@ g++ -o main main.cpp
 - In Administrator mode, select the functionality you want to perform.
 - In Guest mode, select the desired functionality available.
 
-## Functionality ⚙️ <a name="functionality"></a>
+## Functionality <a name="functionality"></a>
 
 ### Administrator Mode
 1. **Add a new employee's details:** Add details such as name, ID, salary, and joining date for a new employee.
@@ -45,10 +45,6 @@ g++ -o main main.cpp
 4. **Generate the report in a sorted manner based on ID:** Display the list of all employees sorted by their IDs.
 5. **Get employees with a range of salaries:** Display employees whose salaries fall within a specified range.
 
-## Contributing 🤝 <a name="contributing"></a>
-
-🎉 Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request. If you find any issues or have suggestions for improvement, please open an issue.
-
 ## License 📄 <a name="license"></a>
 
-📝 This project is licensed under the [GNU General Public License (GPL) ](LICENSE).
+This project is licensed under the [GNU General Public License (GPL) ](LICENSE).
